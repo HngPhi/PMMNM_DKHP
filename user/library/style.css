@@ -1,0 +1,36 @@
+#wp-content{
+    margin: 0px auto;
+    width: 1170px;
+}
+
+#header{
+    height: 50px;
+    background: rgb(83, 182, 182);
+}
+
+.user{
+    float: right;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.user_login{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#content{
+    margin-top: 20px;
+}
+
+table tr td{
+    width: 150px;
+    padding: 15px;
+    text-align: center;
+}
+
+table tr td a{
+    color: red;
+}
